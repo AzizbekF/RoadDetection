@@ -1,0 +1,5 @@
+dataset
+.venv/
+notebook/models/
+.idea/
+.DS_Store
